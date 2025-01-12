@@ -1,7 +1,7 @@
 # Great-Lakes-WW3
 
 ## Description
-Plot maps of Great Lakes Wave-Watch III data from GLERL. Maps are adjustable to anywhere over the Great Lakes via Lat/Long adjustment.
+Plot maps of Great Lakes Wave-Watch III data from GLERL to preset areas
 ## Dependencies 
 Dependencies include: Xarray, Numpy, Metpy, Matplotlib, Cartopy, Datetime, Requests, PyProj, Pandas, Sys, Warnings
 
